@@ -1,5 +1,7 @@
 # REST Countries
 
+## By [Mamadou Moussa Balde](https://www.linkedin.com/in/2mb/)
+
 A React page that lists countries from REST Countries v5. The dev server is Vite 8.3.0 at http://localhost:5173/. The page title is Rest Countries API. The typeface is Nunito Sans.
 
 From this folder:
